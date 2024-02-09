@@ -1,0 +1,55 @@
+#menusuperior nav ul{
+   display: flex; 
+   font-size: 15px;
+   float: right;
+}
+#menusuperior nav ul{
+    list-style: none;
+    padding: 10px;
+    justify-content: right;
+}
+#menusuperior nav ul li{
+    padding: 10px;
+}
+
+.fondo{
+    background-color: black;
+}
+
+#menusuperior nav ul li{
+    color: white;
+}
+
+#menusuperior ul li:hover{
+    background-color: black;
+}
+
+#fotos{
+    float: left;
+    display: flex;
+    justify-content: left;
+}
+#fotos{
+    width: 10px;
+}
+
+#fotologo{
+    display: flex;
+    padding: 0px;
+}
+
+#fotologo{
+    width: 200px;
+    height: 340px;
+}
+#fotonetflix{
+    display: flex;
+    padding: 200px;
+    justify-content: left;
+}
+
+#fotologo img{
+    border: solid;
+    border-color: white;
+    width: 3000px;
+}
